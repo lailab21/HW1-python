@@ -1,2 +1,2 @@
-# creating and finish enw exercises
+# creating and finish new exercises
 # creating another commit for exercise
